@@ -1,2 +1,2 @@
 # SG
-Scrath Search (Gogle)
+Scrath Search (Google)
